@@ -9,6 +9,8 @@
 - **CLI Interface**: `scan` and `sniff` subcommands.
 
 ## Installation
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
 ```bash
 git clone https://github.com/<your-username>/cybersec-tools.git
@@ -18,5 +20,3 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
