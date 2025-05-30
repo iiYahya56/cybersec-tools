@@ -16,3 +16,7 @@ cd cybersec-tools
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
